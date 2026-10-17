@@ -57,14 +57,35 @@ All currency, operations, and nomenclature are fully customized for **Indian ret
 
 ## 🚀 Quick Start Guide
 
-### Start Both Backend & Frontend with One Command:
+### 🌐 Live Public Link (Instant Online Access)
 
+Open this live link on any smartphone or computer anywhere in the world:
+
+👉 **[https://26c04bd62ddeff.lhr.life](https://26c04bd62ddeff.lhr.life)**
+
+---
+
+### Local Development:
 ```bash
 npm run dev
 ```
 
 - **Frontend NetBanking**: `http://localhost:3000`
 - **Backend Core Banking API**: `http://localhost:5000`
+
+---
+
+### ☁️ 100% Free Permanent Cloud Deployment (Render.com)
+
+1. Push this repository to GitHub:
+   ```bash
+   git remote add origin https://github.com/<your-username>/<repo-name>.git
+   git branch -M main
+   git push -u origin main
+   ```
+2. On [Render.com](https://render.com), sign in with GitHub and click **"New +" -> "Web Service"**.
+3. Select your repository. It will automatically load `render.yaml`.
+4. Click **Deploy**. Your permanent free link `https://<your-service>.onrender.com` will be live in 2 minutes!
 
 ---
 
