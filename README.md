@@ -61,7 +61,7 @@ All currency, operations, and nomenclature are fully customized for **Indian ret
 
 Open this live link on any smartphone or computer anywhere in the world:
 
-👉 **[https://26c04bd62ddeff.lhr.life](https://26c04bd62ddeff.lhr.life)**
+👉 **[https://33df295bb2cc47.lhr.life](https://33df295bb2cc47.lhr.life)**
 
 ---
 
